@@ -1,0 +1,6 @@
+{
+  "name": "ViaLite",
+  "description": "Ultra-lightweight, high-speed mobile browser with custom ad blocker, dark mode, tab manager, and JSON cookie editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
